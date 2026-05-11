@@ -1,5 +1,9 @@
 MI NOMBRE ES GUSTAVO Y ACTUALMNENTE ESTUDIO UNA INGIENERIA EN SISTEMAS.
 Mi objetivo es seguir creciendo profesionalmente
+
+
+
+
 <img src="https://i.pinimg.com/736x/8f/97/5a/8f975a884fc860b6b645e868b3334897.jpg" width="300"/>
 
 <!--
